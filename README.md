@@ -1,16 +1,24 @@
-# grocery_app
+# Flutter Food App
 
-A new Flutter project.
+It is simple flutter food app , with a start page , store page and a cart page, we can add and remove food items to our cart
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Run Locally
 
-A few resources to get you started if this is your first Flutter project:
+Clone the project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+  git clone https://github.com/Nikeshchaudhary52494/flutterFoodApp.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Go to the project directory
+
+```bash
+  cd flutterFoodApp
+```
+
+ Run Application
+
+```bash
+  flutter run
+```
